@@ -8,7 +8,7 @@
     left: 0;
     height: 8%;
     width: 100%;
-    background-color:lightblue;
+    background-color:#355070;
    color: white;
 }
 
@@ -22,31 +22,31 @@
     left: 0;
     height: 4%;
     width: 100%;
-    background-color: black;
+    background-color: #355070;
    color: white;     
 }
 
 #menu a{
-    background-color: aqua;
+    background-color: #C0B7B1;
     color: black;   
 }
 
 #menu a:hover{
-    background-color: greenyellow;
+    background-color: #355070;
     color: white;    
 }
 
-#barralateral {
+/*#barralateral {
     position: absolute;
     top: 12%; 
     left: 0;
     height: 81%;
     width: 20%;
-    background-color: #00FFA0;
+    background-color: #355070;
     padding: 10px;
     overflow: auto;
  
-}
+}*/
 
 #contenido {
     position: absolute;
@@ -54,7 +54,7 @@
     left: 20%;
     height: 81%;
     width: 80%;
-    background-color: #7901A0;
+    background-color: #C0B7B1;
     padding: 10px;
     overflow: auto
 }
@@ -82,7 +82,7 @@
     left: 0;
     height: 4%;
     width: 100%;
-    background-color: #AABB00;
+    background-color: #355070;
     text-align: center
 }
 
